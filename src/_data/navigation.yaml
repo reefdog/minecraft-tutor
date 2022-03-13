@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
+  - text: Tutoring Services
     url: "#"
-  - text: Menu Two
+  - text: About the Instructor
     url: "#"
-  - text: Menu Three
+  - text: Samples
     url: "#"
   - text: Blog
-    url: "/blog"
+    url: /blog
